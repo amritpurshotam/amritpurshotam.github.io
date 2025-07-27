@@ -27,12 +27,7 @@ ninja.data = [{
             window.location.href = "/blog/2025/coming-soon/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{
+      },{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',
