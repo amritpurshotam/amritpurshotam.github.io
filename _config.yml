@@ -8,7 +8,7 @@ last_name: Purshotam
 contact_note: >
   Feel free to DM me on LinkedIn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  I build, ship, and write about RecSys.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -204,8 +204,18 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _books/the_godfather.md
   - _news/announcement_1.md
   - _news/announcement_2.md
+  - _pages/books.md
+  - _pages/cv.md
+  - _pages/dropdown.md
+  - _pages/news.md
+  - _pages/profiles.md
+  - _pages/projects/md
+  - _pages/publications.md
+  - _pages/repositories.md
+  - _pages/teaching.md
   - _projects/1_project.md
   - _projects/2_project.md
   - _projects/3_project.md
@@ -321,8 +331,8 @@ display_categories: [] # these categories will be displayed on the front page of
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Purshotam]
+  first_name: [Amrit]
 
   style: apa
   locale: en

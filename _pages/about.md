@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, my name is Amrit and I enjoy solving applied machine learning problems in a variety of domains. I'm currently a Machine Learning Scientist at Booking.com working on RecSys where I've helped drive millions in incremental revenue. Previously, I was a Machine Learning Engineer at takealot.com where I worked on food delivery optimisation and a Data Scientist at Discovery / Vitality where I worked on health and fitness applications.
+Hi, my name is Amrit and I build, ship, and write about my experiences working in RecSys. I'm currently a Machine Learning Scientist at Booking.com working on RecSys where I've helped drive millions in incremental revenue. Previously, I was a Machine Learning Engineer at takealot.com where I worked on food delivery optimisation and a Data Scientist at Discovery / Vitality where I worked on health and fitness applications.
 
 Outside of work, I've [co-written](https://github.com/deep-learning-indaba/indaba-pracs-2023/blob/main/practicals/Recommender_Systems.ipynb) [practicals](https://github.com/deep-learning-indaba/indaba-pracs-2024/tree/main/practicals/Recommender_Systems) on RecSys for the [Deep Learning Indaba](https://deeplearningindaba.com) and also helped build out core functionality in [Baobab](https://github.com/deep-learning-indaba/Baobab), their applicant tracking and review system.
