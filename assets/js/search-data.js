@@ -35,6 +35,13 @@ ninja.data = [{
           window.open("https://bsky.app/profile/amritpurshotam.bsky.social", "_blank");
         },
       },{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
